@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+permalink: /terms/
+---
+
 # Terms of Service
 
 Welcome to **Nap** ("the App", "we", "our", or "us"). By using Nap, you agree to the following terms and conditions. Please read them carefully before using the app.
@@ -6,7 +12,7 @@ Welcome to **Nap** ("the App", "we", "our", or "us"). By using Nap, you agree to
 By downloading, installing, or using Nap, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must not use the App.
 
 ## 2. Use of the App
-Nap is a wellness tool designed to help you track and analyze sleep and productivity patterns using Apple’s HealthKit framework. You must use the App in accordance with all applicable laws and regulations.
+Nap is a wellness tool designed to help you track and analyze sleep and productivity patterns using Apple's HealthKit framework. You must use the App in accordance with all applicable laws and regulations.
 
 ## 3. HealthKit Integration
 Nap integrates with **Apple HealthKit** to provide personalized sleep insights.
@@ -26,7 +32,7 @@ All content, features, and functionality in Nap, including but not limited to te
 We reserve the right to modify, suspend, or discontinue the app (or any part thereof) at any time without notice. We may also update these Terms from time to time. Continued use of the app constitutes your acceptance of any changes.
 
 ## 7. Disclaimer of Warranties
-Nap is provided on an “as is” and “as available” basis. We make no warranties, express or implied, regarding the functionality, reliability, or availability of the app.
+Nap is provided on an "as is" and "as available" basis. We make no warranties, express or implied, regarding the functionality, reliability, or availability of the app.
 
 ## 8. Limitation of Liability
 To the fullest extent permitted by law, NSLand shall not be liable for any indirect, incidental, or consequential damages arising out of or related to your use of the app.
