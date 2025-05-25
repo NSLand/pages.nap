@@ -15,7 +15,7 @@ header_pages:
 
 # Site settings
 email: nslandteam@gmail.com
-github_username: your-github-username
+github_username: NSLand
 
 # Build settings
 markdown: kramdown

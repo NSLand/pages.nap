@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy
-
 Nap (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy describes how our app handles user information.
 
 ### 1. No Data Collection

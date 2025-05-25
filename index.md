@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Home
+title: Nap
 ---
-
-# Nap
 
 Welcome to Nap - a wellness tool designed to help you track and analyze sleep and productivity patterns.
 

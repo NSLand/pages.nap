@@ -4,8 +4,6 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-# Terms of Service
-
 Welcome to **Nap** ("the App", "we", "our", or "us"). By using Nap, you agree to the following terms and conditions. Please read them carefully before using the app.
 
 ## 1. Acceptance of Terms
