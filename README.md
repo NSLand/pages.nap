@@ -1,6 +1,6 @@
-# Nap - GitHub Pages
+# Lunomia - GitHub Pages
 
-This repository contains the GitHub Pages site for the Nap app, including legal documents and app information.
+This repository contains the GitHub Pages site for the Lunomia app, including legal documents and app information.
 
 ## Pages
 
