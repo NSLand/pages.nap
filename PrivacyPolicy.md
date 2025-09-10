@@ -4,15 +4,15 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-Nap (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy describes how our app handles user information.
+Lunomia (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy describes how our app handles user information.
 
 ### 1. No Data Collection
 
-We do not collect, store, or transmit any personal data. Nap functions entirely on-device and does not transmit any user information to external servers.
+We do not collect, store, or transmit any personal data. Lunomia functions entirely on-device and does not transmit any user information to external servers.
 
 ### 2. Health Data
 
-Nap reads sleep-related data via Apple HealthKit to provide insights and improve your sleep awareness. This data is accessed read-only and used solely within the app on your device.
+Lunomia reads sleep-related data via Apple HealthKit to provide insights and improve your sleep awareness. This data is accessed read-only and used solely within the app on your device.
 
 We do not:
 
@@ -25,15 +25,15 @@ All data is handled locally on your device. No information is uploaded or sent t
 
 ### 4. Third-Party Services
 
-Nap integrates with Apple HealthKit, governed by Apple’s privacy policies. We recommend reviewing Apple’s HealthKit documentation for more information.
+Lunomia integrates with Apple HealthKit, governed by Apple’s privacy policies. We recommend reviewing Apple’s HealthKit documentation for more information.
 
 ### 5. User Rights
 
-Since Nap does not collect or store personal data, there is no user data to delete or export. You control your HealthKit data via your iPhone settings.
+Since Lunomia does not collect or store personal data, there is no user data to delete or export. You control your HealthKit data via your iPhone settings.
 
 ### 6. Children’s Privacy
 
-Nap does not knowingly collect any personal information from anyone, including children under 13.
+Lunomia does not knowingly collect any personal information from anyone, including children under 13.
 
 ### 7. Changes to This Policy
 
