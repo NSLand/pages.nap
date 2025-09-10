@@ -23,6 +23,6 @@ bundle exec jekyll serve
 ## URLs
 
 Once deployed, your pages will be available at:
-- Homepage: `https://yourusername.github.io/pages.nap/`
-- Privacy Policy: `https://yourusername.github.io/pages.nap/privacy/`
-- Terms of Service: `https://yourusername.github.io/pages.nap/terms/`
+- Homepage: `https://yourusername.github.io/pages.lunomia/`
+- Privacy Policy: `https://yourusername.github.io/pages.lunomia/privacy/`
+- Terms of Service: `https://yourusername.github.io/pages.lunomia/terms/`
